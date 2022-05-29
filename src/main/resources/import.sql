@@ -1,0 +1,10 @@
+INSERT INTO tb_client (id, name, cpf, children, income, birth_Date) VALUES (default, 'Helena', '500.398.550-90', '2', 3200.0, '1990-07-21T10:30:00Z');
+INSERT INTO tb_client (id, name, cpf, children, income, birth_Date) VALUES (default, 'Aline', '586.701.570-04', '0', 1800.0, '1965-06-02T10:30:00Z');
+INSERT INTO tb_client (id, name, cpf, children, income, birth_Date) VALUES (default, 'Matias', '868.050.300-21', '3', 2500.0, '1982-10-16T10:30:00Z');
+INSERT INTO tb_client (id, name, cpf, children, income, birth_Date) VALUES (default, 'Emanuel', '014.289.880-50', '1', 13000.00, '1996-12-15T10:30:00Z');
+INSERT INTO tb_client (id, name, cpf, children, income, birth_Date) VALUES (default, 'Antunes', '010.635.380-25', '2', 2600.00, '1966-01-26T10:30:00Z');
+INSERT INTO tb_client (id, name, cpf, children, income, birth_Date) VALUES (default, 'Cristiane', '736.831.020-12', '5', 4250.00, '1975-03-30T10:30:00Z');
+INSERT INTO tb_client (id, name, cpf, children, income, birth_Date) VALUES (default, 'Joana', '958.302.610-73', '3', 8950.00, '1936-03-04T10:30:00Z');
+INSERT INTO tb_client (id, name, cpf, children, income, birth_Date) VALUES (default, 'Muriel', '484.300.630-05', '2', 1500.00, '2000-04-12T10:30:00Z');
+INSERT INTO tb_client (id, name, cpf, children, income, birth_Date) VALUES (default, 'Pedro', '203.993.620-37', '6', 2640.00, '1939-10-18T10:30:00Z');
+INSERT INTO tb_client (id, name, cpf, children, income, birth_Date) VALUES (default, 'Angela', '289.828.860-87', '1', 4521.00, '2001-09-13T10:30:00Z');
